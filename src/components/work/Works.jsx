@@ -17,7 +17,7 @@ const Works = () => {
       setProjects(newProjects);
     }
   },[item]);
-
+  // console.log("useeffect render")
   const handleClick = (e,index) =>{
     setItem({name:e.target.textContent});
     setActive(index);

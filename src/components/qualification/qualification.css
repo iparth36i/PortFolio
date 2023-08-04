@@ -1,6 +1,6 @@
 .qualification__container{
     max-width: 768px;
-    background-color: aqua;
+    /* background-color: aqua;   */
 }
 .qualification__tabs{
     display: flex;
